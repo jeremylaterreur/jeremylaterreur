@@ -1,16 +1,19 @@
-### Hi there 👋
+![banniere](https://user-images.githubusercontent.com/94352202/141757480-2eb7cc23-8840-47c5-8ae6-0550a301dc99.gif)
+---
+Bienvenue sur mon profil Github
+---
+Mes Languages
 
-<!--
-**jeremylaterreur/jeremylaterreur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="C Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="C Logo" width="50" height="50" />
+---
+Mes IDEs
 
-Here are some ideas to get you started:
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="C Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="C Logo" width="50" height="50" />
+---
+Mes stats GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremylaterreur&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremylaterreur&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeremylaterreur&theme=highconstrast)](https://github.com/anuraghazra/github-readme-stats)
