@@ -1,4 +1,4 @@
-![banniere](https://user-images.githubusercontent.com/94352202/141757480-2eb7cc23-8840-47c5-8ae6-0550a301dc99.gif)
+![banniere](https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif)
 ---
 Bienvenue sur mon profil Github
 ---
@@ -15,5 +15,3 @@ Mes stats GitHub
 [![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremylaterreur&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremylaterreur&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeremylaterreur&theme=highconstrast)](https://github.com/anuraghazra/github-readme-stats)
